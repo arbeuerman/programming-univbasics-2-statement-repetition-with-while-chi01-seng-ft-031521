@@ -6,4 +6,5 @@ while count > 0 do
   count -=1 
   if count == 10
     puts "Happy New Year!"
+  end 
 end 
